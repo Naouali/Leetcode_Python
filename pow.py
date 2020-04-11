@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#or simply x **n
 def mypow(x, n):
     l = n
     if n < 0:
